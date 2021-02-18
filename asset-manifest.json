@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RandomRYM-React/static/css/main.f552cadd.chunk.css",
+    "main.js": "/RandomRYM-React/static/js/main.a6a1c693.chunk.js",
+    "main.js.map": "/RandomRYM-React/static/js/main.a6a1c693.chunk.js.map",
+    "runtime-main.js": "/RandomRYM-React/static/js/runtime-main.91363697.js",
+    "runtime-main.js.map": "/RandomRYM-React/static/js/runtime-main.91363697.js.map",
+    "static/js/2.f0b5c378.chunk.js": "/RandomRYM-React/static/js/2.f0b5c378.chunk.js",
+    "static/js/2.f0b5c378.chunk.js.map": "/RandomRYM-React/static/js/2.f0b5c378.chunk.js.map",
+    "static/js/3.1e869d11.chunk.js": "/RandomRYM-React/static/js/3.1e869d11.chunk.js",
+    "static/js/3.1e869d11.chunk.js.map": "/RandomRYM-React/static/js/3.1e869d11.chunk.js.map",
+    "index.html": "/RandomRYM-React/index.html",
+    "static/css/main.f552cadd.chunk.css.map": "/RandomRYM-React/static/css/main.f552cadd.chunk.css.map",
+    "static/js/2.f0b5c378.chunk.js.LICENSE.txt": "/RandomRYM-React/static/js/2.f0b5c378.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91363697.js",
+    "static/js/2.f0b5c378.chunk.js",
+    "static/css/main.f552cadd.chunk.css",
+    "static/js/main.a6a1c693.chunk.js"
+  ]
+}
