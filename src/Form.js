@@ -37,22 +37,24 @@ const Form = () => {
     }, [position]);
 
     return (
-        <div className="form-container">
-            <form className="form" onSubmit={getGeneratedYear}>
-                <input
-                    className="input"
-                    type="tel"
-                    placeholder="Begining"
-                    onChange={getYear1}
-                />
-                <input
-                    className="input"
-                    type="tel"
-                    placeholder="End"
-                    onChange={getYear2}
-                />
-                <button type="submit">Generate</button>
-            </form>
+        <div className="container">
+            <div className="form-container">
+                <form className="form" onSubmit={getGeneratedYear}>
+                    <input
+                        className="input"
+                        type="tel"
+                        placeholder="Begining"
+                        onChange={getYear1}
+                    />
+                    <input
+                        className="input"
+                        type="tel"
+                        placeholder="End"
+                        onChange={getYear2}
+                    />
+                    <button type="submit">Generate</button>
+                </form>
+            </div>
             <Display
                 isSubmit={isSubmit}
                 position={position}

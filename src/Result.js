@@ -2,7 +2,7 @@ import React from 'react';
 
 const Result = ({ position, generatedYear, page }) => {
     return (
-        <div>
+        <div className="result">
             <hr />
             <p>Listen to album <b>n°{position}</b> of year <b>{generatedYear}</b></p>
             <a
